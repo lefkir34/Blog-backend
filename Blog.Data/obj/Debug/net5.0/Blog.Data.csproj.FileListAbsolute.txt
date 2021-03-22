@@ -1,0 +1,15 @@
+E:\CodeGimaBlog\Backend\Blog.Data\obj\Debug\net5.0\Blog.Data.csprojAssemblyReference.cache
+E:\CodeGimaBlog\Backend\Blog.Data\obj\Debug\net5.0\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeGimaBlog\Backend\Blog.Data\obj\Debug\net5.0\Blog.Data.AssemblyInfoInputs.cache
+E:\CodeGimaBlog\Backend\Blog.Data\obj\Debug\net5.0\Blog.Data.AssemblyInfo.cs
+E:\CodeGimaBlog\Backend\Blog.Data\obj\Debug\net5.0\Blog.Data.csproj.CoreCompileInputs.cache
+E:\CodeGimaBlog\Backend\Blog.Data\bin\Debug\net5.0\Blog.Data.deps.json
+E:\CodeGimaBlog\Backend\Blog.Data\bin\Debug\net5.0\Blog.Data.dll
+E:\CodeGimaBlog\Backend\Blog.Data\bin\Debug\net5.0\ref\Blog.Data.dll
+E:\CodeGimaBlog\Backend\Blog.Data\bin\Debug\net5.0\Blog.Data.pdb
+E:\CodeGimaBlog\Backend\Blog.Data\bin\Debug\net5.0\Blog.Model.dll
+E:\CodeGimaBlog\Backend\Blog.Data\bin\Debug\net5.0\Blog.Model.pdb
+E:\CodeGimaBlog\Backend\Blog.Data\obj\Debug\net5.0\Blog.Data.csproj.CopyComplete
+E:\CodeGimaBlog\Backend\Blog.Data\obj\Debug\net5.0\Blog.Data.dll
+E:\CodeGimaBlog\Backend\Blog.Data\obj\Debug\net5.0\ref\Blog.Data.dll
+E:\CodeGimaBlog\Backend\Blog.Data\obj\Debug\net5.0\Blog.Data.pdb

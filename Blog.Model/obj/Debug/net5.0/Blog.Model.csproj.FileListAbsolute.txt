@@ -1,0 +1,12 @@
+E:\CodeGimaBlog\Backend\Blog.Model\bin\Debug\net5.0\Blog.Model.deps.json
+E:\CodeGimaBlog\Backend\Blog.Model\bin\Debug\net5.0\Blog.Model.dll
+E:\CodeGimaBlog\Backend\Blog.Model\bin\Debug\net5.0\ref\Blog.Model.dll
+E:\CodeGimaBlog\Backend\Blog.Model\bin\Debug\net5.0\Blog.Model.pdb
+E:\CodeGimaBlog\Backend\Blog.Model\obj\Debug\net5.0\Blog.Model.csprojAssemblyReference.cache
+E:\CodeGimaBlog\Backend\Blog.Model\obj\Debug\net5.0\Blog.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeGimaBlog\Backend\Blog.Model\obj\Debug\net5.0\Blog.Model.AssemblyInfoInputs.cache
+E:\CodeGimaBlog\Backend\Blog.Model\obj\Debug\net5.0\Blog.Model.AssemblyInfo.cs
+E:\CodeGimaBlog\Backend\Blog.Model\obj\Debug\net5.0\Blog.Model.csproj.CoreCompileInputs.cache
+E:\CodeGimaBlog\Backend\Blog.Model\obj\Debug\net5.0\Blog.Model.dll
+E:\CodeGimaBlog\Backend\Blog.Model\obj\Debug\net5.0\ref\Blog.Model.dll
+E:\CodeGimaBlog\Backend\Blog.Model\obj\Debug\net5.0\Blog.Model.pdb
